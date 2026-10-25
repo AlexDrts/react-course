@@ -1,0 +1,30 @@
+.steps{
+
+    background:white;
+    padding:20px;
+    margin-top:20px;
+    border-radius:15px;
+
+}
+
+.steps button{
+
+    padding:10px 20px;
+    margin-bottom:20px;
+    cursor:pointer;
+
+}
+
+.steps li{
+
+    margin:10px 0;
+
+}
+.steps h2 {
+    font-size: 30px;
+    color: #d35400;
+    text-align: center;
+    margin-bottom: 20px;
+    border-bottom: 3px solid #f4a261;
+    padding-bottom: 10px;
+}

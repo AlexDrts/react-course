@@ -1,0 +1,12 @@
+.contacts {
+    margin-top: 20px;
+}
+
+.contacts h2 {
+    color: darkred;
+}
+
+.contacts p {
+    font-size: 18px;
+    margin: 8px 0;
+}

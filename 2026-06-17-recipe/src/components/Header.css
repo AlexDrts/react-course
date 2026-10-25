@@ -1,0 +1,28 @@
+.header {
+    background: linear-gradient(135deg, #ffd166, #f4a261);
+    color: #333;
+    text-align: center;
+    padding: 35px 20px;
+    border-radius: 15px;
+    margin: 20px 0;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 42px;
+}
+
+.header p {
+    margin: 12px 0 8px;
+    font-size: 20px;
+}
+
+.header span {
+    display: inline-block;
+    padding: 6px 14px;
+    background: white;
+    border-radius: 20px;
+    font-size: 15px;
+    font-weight: bold;
+}

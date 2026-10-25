@@ -1,0 +1,10 @@
+body{
+  margin:0;
+  background:#f7f7f7;
+  font-family:Arial;
+}
+
+.container{
+  width:900px;
+  margin:auto;
+}
